@@ -13,8 +13,8 @@
 
 <div align="start">
   <a href="https://github.com/jfilgueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfilgueira&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfilgueira&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfilgueira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfilgueira&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
    <div style="display: inline_block"><br>
