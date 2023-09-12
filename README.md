@@ -1,16 +1,28 @@
 ### Hi there 👋
+- 👨‍💻 Front-end | React student
+- ☀️ Recife, Brazil
 
-<!--
-**JFilgueira/jfilgueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖳 I’m currently studying and improving my front-end development skills with the React library.
 
-Here are some ideas to get you started:
+<h3>Languages: </h3>
+<ul>
+  <li>Portuguese (native)</li>
+  <li>English (advanced)</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/jfilgueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfilgueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaslins&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+   <div style="display: inline_block"><br>
+  <img align="center" alt="Joao-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Joao-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Joao-JavaScprit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+   
+##     
