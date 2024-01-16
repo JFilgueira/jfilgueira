@@ -5,23 +5,23 @@
 
 ## Wanna know a little about me?
 
-In the year of 2022 I started to work with Wordpress websites because I needed to sustain the house. So I pass the first six months of that year working with it and learning a lot of lot of things, but the routine was very exausting because as the freelancer that I was, I didn't had a schedule rotune to work on, so worked and worked because the tasks needed to be done and I needed the money.
+In the year 2022, I started working with WordPress websites because I needed to sustain my household. So, I spent the first six months of that year working with it and learning a lot of things. However, the routine was very exhausting because, as a freelancer, I didn't have a scheduled routine to work on. I worked tirelessly because the tasks needed to be done, and I needed the money.
 
-Was a tough time, but a yet a graceful time of my life.
+It was a tough time, but also a graceful period of my life.
 
-So in the end of 2022 I decided that didn't want that kind of stresseful life for me and that I could made greater things for those that I need to care of, then I decided to learn how to really code.
+At the end of 2022, I decided that I didn't want that kind of stressful life for myself, and I believed I could achieve greater things for those I needed to take care of. So, I decided to learn how to code.
 
-With a lot of help of my greatest friends that support me emotionally and technically (when giving me acess to their Udemy accounts), they show me the path and I took it.
+With a lot of help from my greatest friends who supported me emotionally and technically (by giving me access to their Udemy accounts), they showed me the path, and I took it.
 
-Even though not having university degrees, or even being studing in one, and knowing nothing of real coding at the time, I made the firm purpose to learn the main skill necessary to become a Junior Programmer until the end of 2023. 
+Even though I didn't have university degrees, or even enrolled in one, and knew nothing about real coding at the time, I made a firm commitment to learn the main skills necessary to become a Junior Programmer by the end of 2023.
 
 And I did learn.
 
-Went from basic HTML & CSS to doing Real Time Chat Application and User Role Menagement with Redux, everything being made with React.js. 
+I went from basic HTML & CSS to creating a Real-Time Chat Application and User Role Management with Redux, all built with React.js.
 
-Now I come here to show to you some of my projects. And I hope you like what you see beucase I had a great time doing all of those things...
+Now I'm here to showcase some of my projects. I hope you like what you see because I had a great time working on all of those things.
 
-Have a great day!👋  
+Have a great day! 👋
 
 <h2>Languages that I speak: </h2>
 <ul>
