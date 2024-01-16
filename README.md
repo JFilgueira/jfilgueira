@@ -23,7 +23,7 @@ Now I come here to show to you some of my projects. And I hope you like what you
 
 Have a great day!👋  
 
-<h3>Languages: </h3>
+<h2>Languages that I speak: </h2>
 <ul>
   <li>Portuguese (native)</li>
   <li>English (advanced)</li>
