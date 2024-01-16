@@ -4,7 +4,23 @@
 
 🖳 I’m currently studying and improving my front-end development skills with the React library!
 
-In the year of 2022 I started to work with Wordpress websites because I needed to sustain the house. So I pass the first six months of that year working with it and learning a lot of lot of things, but the routine was very exausting because as the freelancer that I was, I didn't had a schedule rotune to work on, so worked and worked because the tasks needed to be done and I needed the money. Was a tough time, but a yet a graceful time of my life. So in the end of 2022 I decided that didn't want that kind of stresseful life for me and that I could made greater things for those that I need to care of, then I decided to learn how to really code. With a lot of help of my greatest friends, they show me the path and I took it. Even though not having university degrees, or even being studing in one, and knowing nothing of real coding, I made the firm purpose to learn the main skill necessary to become a Junior Programmer until the end of 2023. And I did learn. Went from HTML & CSS to doing Real Time Chat Application and User Role Menagement with Redux, everything being made with React.js. Now I come here to show to you some of my projects. And I hope you like what you see beucase I had a great time doing of those things... have a great day!👋  
+In the year of 2022 I started to work with Wordpress websites because I needed to sustain the house. So I pass the first six months of that year working with it and learning a lot of lot of things, but the routine was very exausting because as the freelancer that I was, I didn't had a schedule rotune to work on, so worked and worked because the tasks needed to be done and I needed the money.
+
+Was a tough time, but a yet a graceful time of my life.
+
+So in the end of 2022 I decided that didn't want that kind of stresseful life for me and that I could made greater things for those that I need to care of, then I decided to learn how to really code.
+
+With a lot of help of my greatest friends that support me emotionally and technically (when giving me acess to their Udemy accounts), they show me the path and I took it.
+
+Even though not having university degrees, or even being studing in one, and knowing nothing of real coding at the time, I made the firm purpose to learn the main skill necessary to become a Junior Programmer until the end of 2023. 
+
+And I did learn.
+
+Went from basic HTML & CSS to doing Real Time Chat Application and User Role Menagement with Redux, everything being made with React.js. 
+
+Now I come here to show to you some of my projects. And I hope you like what you see beucase I had a great time doing all of those things...
+
+Have a great day!👋  
 
 <h3>Languages: </h3>
 <ul>
