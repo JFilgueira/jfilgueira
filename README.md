@@ -1,8 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 - 👨‍💻 Front-end | React student
 - ☀️ Recife, Brasil
+- 🖳 I’m currently studying and improving my front-end development skills with the React library!
 
-🖳 I’m currently studying and improving my front-end development skills with the React library!
+## Wanna know a little about me?
 
 In the year of 2022 I started to work with Wordpress websites because I needed to sustain the house. So I pass the first six months of that year working with it and learning a lot of lot of things, but the routine was very exausting because as the freelancer that I was, I didn't had a schedule rotune to work on, so worked and worked because the tasks needed to be done and I needed the money.
 
